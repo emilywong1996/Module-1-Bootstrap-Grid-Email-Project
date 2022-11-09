@@ -1,0 +1,196 @@
+p {
+    padding: 5px;
+}
+
+.arrow {
+    margin-top: 5px;
+    width: 50px;
+}
+
+.background {
+    background-color:#7CAFFC;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    margin: 5px;
+}
+
+.compose {
+    background-color: #6C7AF6;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    color: white;
+    font-size: 1em;
+    margin: 5px;
+}
+
+.downArrow {
+    margin: 2px;
+    width: 30px;
+}
+
+.email {
+    background-color: #ADEAFD;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 1.5em;
+    margin: 10px 5px 10px 5px;
+    padding: 5px;
+}
+
+.emailCurrentView {
+    background-color: #ADEAFD;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    height: 560px;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+.emailSelected {
+    background-color: gray;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 1.5em;
+    margin: 10px 5px 10px 5px;
+    padding: 5px;
+}
+
+.emailTitle {
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.emailView {
+    background-color: #ADEAFD;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 1.2em;
+    margin: 5px;
+    text-align: center;
+}
+
+.icons {
+    margin: 2px;
+    width: 50px;
+}
+
+.iconsTwo {
+    margin: 2px;
+    width: 25px;
+}
+
+.magnifyingGlass {
+    float: right;
+    width: 40px;
+}
+
+.mobileBar {
+    background-color: #6C7AF6;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0px 5px 5px 5px;
+    padding: 5px;
+}
+
+.mobileEnvelope {
+    float: right;
+    width: 50px;
+}
+
+.myMail {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: left;
+}
+
+.options {
+    background-color:#ADEAFD;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 1em;
+    font-weight: bold;
+    margin: 5px;
+    max-height: 270px;
+    padding: 5px;
+    text-align: left;
+}
+
+.plus{
+    font-size: 1.5em;
+    padding-right: 2px;
+    font-weight: bold;
+    text-align: right;
+}
+
+.profile {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.programming {
+    display: block;
+    margin: auto;
+    width: 250px;
+}
+
+.replyBar {
+    background-color: #7CAFFC;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 1em;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.searchBar {
+    background-color: #ADEAFD;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 1.2em;
+    font-style: italic;
+    margin: 5px;
+    text-align: left;
+}
+
+.selected {
+    background-color: #6C7AF6;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    color: white;
+    font-size: 1em;
+    margin: 5px;
+}
+
+.selectedSmall {
+    background-color: #6C7AF6;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    color: white;
+    font-size: 1em;
+    margin: 5px -5px 5px 5px;
+}
+
+.toFrom {
+    padding: 5px;
+}
+
+.unread {
+    font-weight: bold;
+}
